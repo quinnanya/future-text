@@ -58,8 +58,7 @@ Digital and digitized language and the mystery of corpora.
 
 **Readings:**
 
-- Gabriel Nicholas, "[The Dire Defect of 'Multilingual' AI Content Moderation](https://www.wired.com/story/content-moderation-language-artificial-intelligence/)", _Wired_, May 23, 2023.
-- "[A Drop of Ink May Make a Million Think: The Spread of False Information in Large Language Models](https://arxiv.org/abs/2305.04812>)." _Computation and Language_, 2023.
+- Erin Kissane, "[Meta in Myanmar, Part I: The Setup](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)". September 28, 2023.
 
 10/9 no class for Indigenous People's Day
 
