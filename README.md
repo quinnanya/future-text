@@ -67,6 +67,9 @@ Digital and digitized language and the mystery of corpora.
 
 Visit Green Library + Textile Makerspace (2 groups will swap locations)
 
+- Rebecca L Johnson et al, "[The Ghost in the Machine has an American accent: value conflict in GPT-3](https://arxiv.org/abs/2203.07785)", read sections #1.2, #2, #3, and #4.
+- Amy E. Elkins, "[Introduction: The Weaver's Handshake](https://searchworks.stanford.edu/view/in00000007524)" (through "Modernity Gets Crafty").
+
 **Assignment 1:** Write a short reflection on something surprising that you discovered during one of your two visits this week (3 pages, double spaced).
 
 ### 3: Digital & digitized culture, copyright, and cultural capital
