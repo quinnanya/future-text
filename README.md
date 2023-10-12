@@ -95,9 +95,8 @@ Cultural capital in the age of AI
 
 Readings:
 
-- Sarah Andersen, "[The Alt-Right Manipulated by Comic. Then AI Claimed It.](https://www.nytimes.com/2022/12/31/opinion/sarah-andersen-how-algorithim-took-my-work.html?searchResultPosition=7)" _The New York Times_, Dec. 31, 2022.
-- Melissa Heikkiläarchive, "[This artist is dominating ai-generated art. And he's not happy about it.](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)" _MIT Technology Review_, September 16, 2022.
 - Pierre Bourdieu and Jean-Claude Passeron, "Cultural Reproduction and Social Reproduction" (1977).
+- Karla Ortiz, [statement before US senate on AI and copyright](https://www.judiciary.senate.gov/imo/media/doc/2023-07-12_pm_-_testimony_-_ortiz.pdf). July 7, 2023.
 
 **Assignment 2:** Find an image style that an image-generation model consistently gets wrong. Write up what you tried, and include some images to illustrate (3 pages, double spaced).
 
@@ -122,7 +121,6 @@ AI and the generation of new art
 
 - Laurie Clarke, "[When AI can make art: what does it mean for creativity?](https://www.theguardian.com/technology/2022/nov/12/when-ai-can-make-art-what-does-it-mean-for-creativity-dall-e-midjourney)" _The Guardian_, November 12, 2022.
 - Zachary Small, "[An Art Professor says AI Is the Future. It's the Students Who Need Convincing](https://www.nytimes.com/2023/05/01/arts/design/ai-art-class.html)." _The New York Times_, May 1, 2023.
-- Karla Ortiz, [statement before US senate on AI and copyright](https://www.judiciary.senate.gov/imo/media/doc/2023-07-12_pm_-_testimony_-_ortiz.pdf). July 7, 2023.
 
 **Assignment 3:** Write a brief (< 1 page) proposal for your final project, indicating which track (technical, critique, creative) you intend to follow and the general direction you're thinking of taking.
 
