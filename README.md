@@ -112,7 +112,7 @@ Prompts and platforms
 
 - Lila Shroff, "[Datasets as Imagination](https://joinreboot.org/p/artist-datasets)"
 - Chiara Coetzee, "[Generating a full-length work of fiction with GPT-4](https://medium.com/@chiaracoetzee/generating-a-full-length-work-of-fiction-with-gpt-4-4052cfeddef3)," Medium, March 24, 2023.
-- Harry Guinness, "[The Best AI Writing Generators in 2023](https://zapier.com/blog/best-ai-writing-generator/)." _Zapier_, April 6, 2023.
+- Nina Beguš, "[Experimental Narratives: A Comparison of Human Crowdsourced Storytelling and AI Storytelling](https://arxiv.org/abs/2310.12902)", sections 1, 2, 3.1, 3.4, 3.5. ArXiv, October 19, 2023.
 
 #### Meeting 2 (10/25)
 
