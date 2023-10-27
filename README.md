@@ -138,8 +138,8 @@ Voice, voicelessness, and authority
 
 **Readings:**
 
-- Andrew Myers, "[AI's Powers of Political Persuasion](https://hai.stanford.edu/news/ais-powers-political-persuasion)." Stanford Human-Centered Artificial Intelligence, February 27, 2023.
-- Alexa Robertson and Max Maccarone, "AI narratives and unequal conditions. Analyzing the discourse of liminal expert voices in discursive communicative spaces" _Telecommunications Policy_, June 2023.
+- Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). _Communications of the ACM_, 1966.
+- Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/training-an-ai-chatbot-on-my-childhood-journal-entries/), December 14, 2022.
 - Mark Marino, "[Can ChatGPT Copy Your Writing Style?](https://markcmarino.medium.com/can-chatgpt-copy-your-writing-style-fe0236fa247f)" _Medium_, January 24, 2023.
 
 #### Meeting 2 (11/1)
@@ -148,8 +148,11 @@ Personality, psychology, and personhood
 
 **Readings:**
 
-- Women in AI Switzerland, "Psychology of Artificial Intelligence." _Medium_, Feb. 19, 2018.
-- Andrew McStay, _Emotional AI: the rise of empathetic media_. SAGE, 2018. (Selections from the book.)
+- Abrams, “[AI is changing every aspect of psychology](https://www.apa.org/monitor/2023/07/psychology-embracing-ai).” An overview of the situation from the American Psychological Association.
+
+- Jensen, “[Johannes Eichstaedt: Exploring the Intersection of AI and Psychology](https://hai.stanford.edu/news/johannes-eichstaedt-exploring-intersection-psychology-and-ai)” This is a very short piece about work currently going on Stanford.
+
+- Clinical Psychologist Lisa Damour interviewed by Ezra Klein on “The teen mental health crisis.” You can [hear it or read a transcript here](https://www.nytimes.com/2023/05/23/opinion/ezra-klein-podcast-lisa-damour.html?).
 
 **Assignment 4:** Write the least AI-like thing on a prompt of the class's choosing (1 page, double spaced). We'll have a Jupyter notebook or other tools available to test the "AI-ness" of your writing.
 
