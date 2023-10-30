@@ -169,6 +169,7 @@ Manual doing and making
 
 - Michael Polanyi, _Personal Knowledge: Towards a Post-Critical Philosophy_ (U Chicago Press, 1974), selections.
 - Lauren Panepinto, "[The Envy of Non-Creatives](https://www.muddycolors.com/2023/09/the-envy-of-non-creatives/)". _Muddy Colors_, September 7, 2023.
+- Joseph Weizenbaum, excerpt from "[Computer Power and Human Reason](https://web.archive.org/web/20050508173416/http://www.smeed.org/1735)".
 
 #### Meeting 2 (11/8)
 
