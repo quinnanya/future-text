@@ -7,6 +7,7 @@ DLCL 103 / Italian 103, Autumn 2023, Stanford University
 - Laura Wittman, Associate Professor of French and Italian, DLCL
 - Quinn Dombrowski, Academic Technology Specialist, DLCL
 - Eric Kim, PhD candidate, Slavic Languages and Literatures, DLCL
+- Andrew Nepomuceno, PhD candidate, Epidemiology and Population Health
 
 ## Course description
 
