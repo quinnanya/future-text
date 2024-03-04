@@ -213,13 +213,14 @@ Since a 6-month moratorium on AI releases was proposed, a lively debate has emer
 
 ##### Meeting 1 (11/27)
 
-Alignment between ethics and politics
+OpenAI drama
 
 **Readings:**
 
-- Brian Christian, _The Alignment Problem: Machine Learning and Human Values_ (Norton, 2020), selections.
-- Lorena O'Neil, "[These Women Tried to Warn Us About AI](https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/)", Rolling Stone, August 12, 2023.
-- Stephen Cave, Kanta Dihal, Sarah Dillon, ed. _AI Narratives: A History of Imaginative Thinking About Intelligent Machines_. Oxford U Press, 2020. Selections.
+- Jeff Jarvis, “[Artificial General Bullshit](https://buzzmachine.com/2023/11/19/artificial-general-bullshit/)”. BuzzMachine blog, November 19, 2023.
+- Angie Wong, “[Is My Toddler a Stochastic Parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)” The New Yorker, November 15, 2023.
+- Derek Thomson, “[The OpenAI Mess is About One Big Thing](https://www.theatlantic.com/ideas/archive/2023/11/openai-sam-altman-corporate-governance/676080/?gift=SIWvd_jVao3EPhsPqoymW1wVBwiCtzpQUl9tVbdpsX8&utm_source=copy-link&utm_medium=social&utm_campaign=share)”, The Atlantic, November 22, 2023.
+
 
 **Assignment 7:** Project check-in (come prepared to explain your project to a group of peers and get feedback on what is missing).
 
@@ -229,8 +230,7 @@ Capitalism and alignment
 
 **Reading:**
 
-- Ted Chiang, "[Will AI Become the New McKinsey?](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey)" The New Yorker, May 4, 2023.
-- Listen to Ezra Klein interview Ted Chiang, "[The Imminent Danger of AI Is One We're Not Taling About](https://www.nytimes.com/2023/02/26/opinion/microsoft-bing-sydney-artificial-intelligence.html)." February 26, 2023.
+- Brian Christian, _The Alignment Problem: Machine Learning and Human Values_ (Norton, 2020), selections.
 
 ### 9: Project presentations and feedback
 
